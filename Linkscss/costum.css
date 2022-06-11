@@ -1,0 +1,22 @@
+body{
+    background-color: goldenrod;
+}
+/* Link não visitado*/
+a:link{
+
+    text-decoration: none;
+    color: whitesmoke
+}
+/* Link visitado*/
+a:visited{
+    color: aqua;
+    
+}
+/*link selecionado*/
+a:active{
+    color: yellow;
+}
+/*Passar o mouse sobre o link*/
+a:hover{
+    color: black;
+}
